@@ -48,6 +48,7 @@ function flipCard () {
     checkForMatch();
     // Reset for new game
     cardsInPlay = [];
+
   }
 }
 

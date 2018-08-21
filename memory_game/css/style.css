@@ -108,9 +108,17 @@ height: 0;
 font-size: 0;
 }
 
-.twitter{
+.twitter {
   float:left;
   display: inline-block;
   margin-top: 20px;
   margin-left: 10px;
+}
+
+#startButton {
+  text-decoration: none;
+  background: #EF233C;
+  color: white;
+  padding: 10px;
+  float: center;
 }
